@@ -51,7 +51,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Google Pla
 - Analytical Thinking
 
 ## Project Outcome
-Performed exploratory analysis of Google Play Store application data to investigate application categories, ratings, installations, and pricing patterns using Python visualizations.
+Performed exploratory analysis of Google Play Store application data to investigate application categories, ratings, installations and pricing patterns using Python visualizations.
 
 ## Conclusion
-This project demonstrates practical Python-based EDA skills and the ability to explore, analyze, and visualize application datasets.
+This project demonstrates practical Python-based EDA skills and the ability to explore, analyze and visualize application datasets.
